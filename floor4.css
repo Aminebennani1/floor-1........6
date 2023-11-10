@@ -209,7 +209,7 @@ input#day-night:checked ~ .content .moon-sun {
 	--height: 3.9;
 	--width: 10;
 	--depth: 52;
-	bottom: 38.5vmin;
+	bottom: 58.5vmin;
 	left: 25vmin;
 }
 
@@ -217,7 +217,7 @@ input#day-night:checked ~ .content .moon-sun {
 	--height: 2.4;
 	--width: 5;
 	--depth: 20;
-	bottom: 38.5vmin;
+	bottom: 58.5vmin;
 	left: 42vmin;
 	transform: rotateY(-8deg) rotateX(5deg) translateZ(-7vmin);
 }
